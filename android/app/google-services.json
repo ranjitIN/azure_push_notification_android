@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "935176624070",
+    "project_id": "azure-notification77576576",
+    "storage_bucket": "azure-notification77576576.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935176624070:android:0fa283df106aac118e44c7",
+        "android_client_info": {
+          "package_name": "com.example.azurepush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935176624070-fvrfqkip2ur5c6jrd9lohep6kfn3npri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBacoMGQiNZMDJOrizVSaPWoT2h3Q0kovo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935176624070-fvrfqkip2ur5c6jrd9lohep6kfn3npri.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935176624070-4ncm4f8r0nfq55lli3nc5iilmq7rqaor.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testNotification"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935176624070:android:c1044efb5e5d57dc8e44c7",
+        "android_client_info": {
+          "package_name": "com.example.test_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935176624070-fvrfqkip2ur5c6jrd9lohep6kfn3npri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBacoMGQiNZMDJOrizVSaPWoT2h3Q0kovo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935176624070-fvrfqkip2ur5c6jrd9lohep6kfn3npri.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "935176624070-4ncm4f8r0nfq55lli3nc5iilmq7rqaor.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testNotification"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
